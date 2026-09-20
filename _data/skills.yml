@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Languages - C++, Python, SQL, Bash Scripting
-  description:
+- skill: Languages
+  description: C++, Python, SQL, Bash Scripting
 
 # Communications strategy
-- skill: Tools - Git, Linux Shell
-  description:
+- skill: Tools
+  description: Git, Linux Shell, WSL
 # Digital content development and creation
 #
-- skill: Environments - Zed, VS Code, Neovim
-  description:
+- skill: Environments
+  description: Zed, VS Code, Neovim
