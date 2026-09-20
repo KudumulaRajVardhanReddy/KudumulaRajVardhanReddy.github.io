@@ -1,16 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Radix Trie KV Store
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: A concurrent, disk-backed Key-Value storage engine built in C++ using a space-efficient Radix Trie index for deterministic O(k) prefix lookups.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+
+- project: Memory Allocator
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A low-latency, hardware-conscious C++ fixed-size memory pool allocator engineered to eliminate heap fragmentation in O(1) time.
