@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Radix Trie KV Store
+- project: KV Store using Radix Trie
   # url: "#"
   description: A concurrent, disk-backed Key-Value storage engine built in C++ using a space-efficient Radix Trie index for deterministic O(k) prefix lookups.
 
